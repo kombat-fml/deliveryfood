@@ -183,7 +183,6 @@ body {
 .card-info {
   display: flex;
   align-items: center;
-  /* margin-top: 10px; */
   flex-wrap: wrap;
 }
 
